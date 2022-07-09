@@ -1,0 +1,45 @@
+p{
+	margin-left: 100px;
+	margin-right: 100px;
+	line-height: 30px;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+.bio{
+	margin-left: 100px;
+	font-size: 50px;
+}
+.childhood{
+	margin-left: 	100px;
+	font-size: 40px;
+}
+.joanne-rowling-photo{
+	width: 700px;
+	margin-left: 100px;
+}
+.joanne-child-photo{
+	width: 700px;
+	margin-left: 100px;
+}
+
+.romans-history{
+	margin-left: 100px;
+	font-size: 35px;
+}
+.romans-history-photo{
+	width: 300px;
+	margin-left: 100px;
+}
+
+.int-fax{
+	font-size: 35px;
+	margin-left: 	100px;
+}
+.fax{
+	line-height: 25px;
+}
+ul{
+	padding-left: 100px;
+	padding-right: 	100px;
+	font-size: 	20px;
+}
